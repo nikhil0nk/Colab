@@ -1,7 +1,6 @@
 # ML_scripts
 All Machine Learning Projects executed on Google Colab are added here
-================================================================================================================================================================================
-
+=
 1. Haystack - https://github.com/deepset-ai/haystack
 
    Haystack ML Framework was used to generate questions and answers from text provided, summarize Amazon reviews and classify each review as positive or negative.
