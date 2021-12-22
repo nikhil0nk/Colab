@@ -23,7 +23,8 @@ All Machine Learning Projects executed on Google Colab are added here
 2. QA_style_max - https://github.com/PrithivirajDamodaran/Styleformer
 
    Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles.
-   Casual to Formal paraphrasing executed in the notebook
+   
+   Casual to Formal paraphrasing executed in the notebook.
 
 
 3. Happy_Summarizer - 
